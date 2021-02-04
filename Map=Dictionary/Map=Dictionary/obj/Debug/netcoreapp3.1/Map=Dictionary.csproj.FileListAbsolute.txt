@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.exe
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.deps.json
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.runtimeconfig.json
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.dll
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\bin\Debug\netcoreapp3.1\Map=Dictionary.pdb
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.dll
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.pdb
+C:\Users\Admin\source\repos\Map=Dictionary\Map=Dictionary\obj\Debug\netcoreapp3.1\Map=Dictionary.genruntimeconfig.cache

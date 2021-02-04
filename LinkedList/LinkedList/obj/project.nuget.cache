@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXivyKWwAASKecfVUB5if/cwLAs02fczTxk/WjUyJg1kM0EIU+o1TVelDPEuCDzrOGt7IUfKTtPAiuWbj1Ax4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O08l3NZA5fKBq10sanPP4DCcu01RbT0Emj9Oq9MmLK5iCrb5Js7OQFIQKn2FHJgyL1JWam1XWKG3ik60mpOIxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Bor\\Bor\\Bor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
